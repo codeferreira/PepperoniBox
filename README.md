@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/FgPd2o9.png" align="right" />
+<img src="https://i.imgur.com/FgPd2o9.png" align="left" />
 
 # PepperoniBox
 
