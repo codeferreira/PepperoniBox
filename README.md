@@ -1,8 +1,13 @@
-<img src="https://i.imgur.com/FgPd2o9.png" align="left" />
+<img src="https://i.imgur.com/FgPd2o9.png" align="right" />
 
 # PepperoniBox
 
 PepperoniBox is a Dropbox Clone created as a personal project to learn more about file upload and socket.io in NodeJS enviroment.
+
+[![GitHub issues](https://img.shields.io/github/issues/JKFher/PepperoniBox?style=flat-square)](https://github.com/JKFher/PepperoniBox/issues)
+[![GitHub forks](https://img.shields.io/github/forks/JKFher/PepperoniBox?style=flat-square)](https://github.com/JKFher/PepperoniBox/network)
+[![GitHub stars](https://img.shields.io/github/stars/JKFher/PepperoniBox?style=flat-square)](https://github.com/JKFher/PepperoniBox/stargazers)
+[![GitHub license](https://img.shields.io/github/license/JKFher/PepperoniBox?style=flat-square)](https://github.com/JKFher/PepperoniBox/blob/master/LICENSE)
 
 ## Installation
 
